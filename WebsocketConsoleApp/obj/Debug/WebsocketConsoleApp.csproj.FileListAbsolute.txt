@@ -1,0 +1,8 @@
+C:\Users\dasbi\source\repos\WebsocketConsoleApp\WebsocketConsoleApp\bin\Debug\WebsocketConsoleApp.exe.config
+C:\Users\dasbi\source\repos\WebsocketConsoleApp\WebsocketConsoleApp\bin\Debug\WebsocketConsoleApp.exe
+C:\Users\dasbi\source\repos\WebsocketConsoleApp\WebsocketConsoleApp\bin\Debug\WebsocketConsoleApp.pdb
+C:\Users\dasbi\source\repos\WebsocketConsoleApp\WebsocketConsoleApp\obj\Debug\WebsocketConsoleApp.csproj.AssemblyReference.cache
+C:\Users\dasbi\source\repos\WebsocketConsoleApp\WebsocketConsoleApp\obj\Debug\WebsocketConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasbi\source\repos\WebsocketConsoleApp\WebsocketConsoleApp\obj\Debug\WebsocketConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dasbi\source\repos\WebsocketConsoleApp\WebsocketConsoleApp\obj\Debug\WebsocketConsoleApp.exe
+C:\Users\dasbi\source\repos\WebsocketConsoleApp\WebsocketConsoleApp\obj\Debug\WebsocketConsoleApp.pdb
